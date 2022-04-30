@@ -1,0 +1,14 @@
+{
+  "name": "intro-html",
+  "version": "1.0.0",
+  "description": "Aprender a utilizar express y html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isolina durand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
